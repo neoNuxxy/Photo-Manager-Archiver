@@ -1,5 +1,11 @@
 # Photo-Manager-Archivier
-[ISIS Galilei](https://isisgo.it/)
+
+### 🟨Info🟨
+Team members: Alessio Colautti (project manager), Alex Troilo  
+School site: [ISIS Galilei](https://isisgo.it/)  
+Program release date: ?/?/2025  
+
+
 ### 🟥Program description🟥
 We want to implement software for managing a photographic archive distributed across various locations.
 The photographs are cataloged based on a catalog of possible subjects, each subject has one
