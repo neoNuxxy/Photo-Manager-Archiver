@@ -1,4 +1,4 @@
-# Photo-Manager-Archivier
+# Photo-Manager-Archiver
 
 ### 🟨Info🟨
 Team members: Alessio Colautti (project manager), Alex Troilo  
