@@ -5,7 +5,7 @@ Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo
 School site: [ISIS Galilei](https://isisgo.it/)  
 Program release date: 05/12/2025  
 
-### 🟥Program description🟥
+### 🟥Descrizione software🟥
 Photo Manager Archiver è un software realizzato in linguaggio Java, con l’ausilio del compilatore
 Apache NetBeans, ideato per la gestione e l’organizzazione di un archivio di fotografie, con diverse
 informazioni dettagliate disponibili all’inserimento per ognuna di esse. Successivamente, possono
