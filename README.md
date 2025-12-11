@@ -2,7 +2,7 @@
   by Photogram
 
 ### 🟨Developers🟨
-Photogram developers group:
+Photogram developers group:  
   Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo  
   School site: [ISIS Galilei](https://isisgo.it/)  
 
