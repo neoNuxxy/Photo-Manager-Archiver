@@ -1,7 +1,7 @@
 # Photo-Manager-Archiver
 
 ### 🟨Developers🟨 
-*Photogram group*
+*Photogram group* [ITA]
 
 Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo  
 School site: [ISIS Galilei](https://isisgo.it/)  
