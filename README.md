@@ -42,7 +42,3 @@ Alla richiesta di inserimento delle informazioni, l’utente può decidere:
 
 Infine, verrà richiesto all’utente se esso vorrà inserire un’altra fotografia, ed in caso di risposta
 negativa, verranno mostrate le informazioni inserite.
-
-di ricostruire una fotografia: il metodo crea un nuovo Photo, inizializza Subject e Condition, e assegna
-a ognuno i valori letti dal file, ripristinando così tutte le informazioni tecniche e descrittive.
-
