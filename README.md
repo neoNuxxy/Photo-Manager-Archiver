@@ -1,7 +1,7 @@
 # Photo-Manager-Archiver
 
 ### 🟨Info🟨
-Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo
+Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo  
 School site: [ISIS Galilei](https://isisgo.it/)  
 Program release date: 05/12/2025  
 
