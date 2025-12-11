@@ -1,10 +1,9 @@
 # Photo-Manager-Archiver
 
 ### 🟨Info🟨
-Team members: Alessio Colautti (project manager), Alex Troilo  
+Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo
 School site: [ISIS Galilei](https://isisgo.it/)  
 Program release date: 05/12/2025  
-
 
 ### 🟥Program description🟥
 Photo Manager Archiver è un software realizzato in linguaggio Java, con l’ausilio del compilatore
@@ -13,6 +12,7 @@ informazioni dettagliate disponibili all’inserimento per ognuna di esse. Succe
 essere visualizzate e analizzate per ogni scopo futuro.
 Questo software è stato realizzato da Alessio Colautti e Alex Troilo, due studenti della classe 4B del
 ramo delle materie informatiche della scuola ITI Galilei Fermi Pacassi di Gorizia. 
+
 ### 🟩Caratteristiche🟩
 All’interno di Photo Manager Archiver, l’utente ha la possibilità, come precedentemente citato, di
 inserire le informazioni descrittive di un archivio di fotografie e, successivamente, di un numero
