@@ -1,7 +1,8 @@
 # Photo-Manager-Archiver
-  by Photogram
 
 ### 🟨Developers🟨 
+*Photogram group*
+
 Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo  
 School site: [ISIS Galilei](https://isisgo.it/)  
 Program release date: 05/12/2025
