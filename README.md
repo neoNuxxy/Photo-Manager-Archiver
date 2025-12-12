@@ -4,6 +4,8 @@
 *Photogram group* [ITA]
 
 Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo  
+Phone: +39 351 532 2633 | +39 351 985 6773  
+Mail: alessio.colautti@isisgo.it | alex.troilo@isisgo.it  
 School site: [ISIS Galilei](https://isisgo.it/)  
 Program release date: 05/12/2025
 
