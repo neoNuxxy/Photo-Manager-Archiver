@@ -1,4 +1,4 @@
-# Photo-Manager-Archiver
+ # Photo-Manager-Archiver
 
 ### 🟨Developers🟨 
 *Photogram group* [ITA]
@@ -6,7 +6,6 @@
 Team members: Alessio Colautti [PROJECT MANAGER], Alex Troilo  
 Mail: alessio.colautti@isisgo.it | alex.troilo@isisgo.it  
 School site: [ISIS Galilei](https://isisgo.it/)  
-Presentation: https://gamma.app/docs/Photo-Manager-Archiver-Gestione-fotografica-semplificata-d2vpf0czuyf4rrf?mode=doc#card-993maw7hlq0ky5s    
 Program release date: 05/12/2025
 
 ### 🟥Software🟥
